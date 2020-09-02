@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HttpDemo", "HttpDemo\HttpDemo.vcxproj", "{780ED36D-3B6F-4633-87A3-9F783427CA0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780ED36D-3B6F-4633-87A3-9F783427CA0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{780ED36D-3B6F-4633-87A3-9F783427CA0E}.Debug|x86.Build.0 = Debug|Win32
+		{780ED36D-3B6F-4633-87A3-9F783427CA0E}.Release|x86.ActiveCfg = Release|Win32
+		{780ED36D-3B6F-4633-87A3-9F783427CA0E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D985CF10-4920-4DDF-854B-9776BD7BE2EB}
+	EndGlobalSection
+EndGlobal
